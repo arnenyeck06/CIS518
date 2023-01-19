@@ -8,4 +8,5 @@ POKEMON PROJECT:
 On this project, I performed an exploratory data analysis. I learn how to deal with missing values, how to perform plots using seaborn, matplotlib. I learned how to handle outliers, Analyze association between 2 variables
 
 IRIS PROJECT:
+
 I performed a logistic regression and Randon forest methods with are classification algorithms.
